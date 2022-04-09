@@ -1,0 +1,62 @@
+# .htaccess
+
+RewriteEngine on
+
+RewriteRule ^login$ controllers/login.php
+RewriteRule ^inicio$ controllers/index.php
+RewriteRule ^clientes$ controllers/listaclientes.php
+RewriteRule ^compras$ controllers/listacompra.php
+RewriteRule ^pedidos$ controllers/listapedidos.php
+RewriteRule ^productos$ controllers/listaproductos.php
+RewriteRule ^proveedores$ controllers/listaproveedores.php
+RewriteRule ^usuarios$ controllers/listausuarios.php
+RewriteRule ^logout$ controllers/logout.php
+
+RewriteRule ^nuevo-cliente$ controllers/nuevocliente.php
+RewriteRule ^editar-cliente-([0-9]+)$ controllers/editarcliente.php?id=$1
+RewriteRule ^clientes-([0-9]+)$ controllers/listaclientes.php?id=$1
+
+RewriteRule ^nuevo-proveedor$ controllers/nuevoproveedor.php
+RewriteRule ^editar-proveedor-([0-9]+)$ controllers/editarproveedor.php?id=$1
+RewriteRule ^proveedores-([0-9]+)$ controllers/listaproveedores.php?id=$1
+
+RewriteRule ^nuevo-producto$ controllers/nuevoproducto.php
+RewriteRule ^editar-producto-([0-9]+)$ controllers/editarproducto.php?id=$1
+RewriteRule ^productos-([0-9]+)$ controllers/listaproductos.php?id=$1
+RewriteRule ^productos-repo$ controllers/listaprodrepo.php?
+
+RewriteRule ^nueva-compra$ controllers/nuevacompra.php
+RewriteRule ^nueva-reposicion$ controllers/nuevareposicion.php
+RewriteRule ^nuevo$ controllers/listanueva.php
+RewriteRule ^reposicion$ controllers/listarepo.php
+RewriteRule ^editar-compra-([0-9]+)-([0-9]+)$ controllers/editarcompra.php?ec=$1&nc=$2
+
+RewriteRule ^nuevo-pedido$ controllers/nuevopedido.php
+RewriteRule ^eliminar-pedido2-([0-9]+)-([0-9]+)-([a-z]+)-([0-9]+)$ controllers/eliminarpedido.php?id-detalle=$1&cliente=$2&eliminar=$3&dni-cliente=$4
+RewriteRule ^concreatada$ controllers/listaconcretada.php
+RewriteRule ^anulada$ controllers/listaanulada.php
+
+
+RewriteRule ^veri-cliente$ controllers/vericliente.php
+RewriteRule ^veri-producto$ controllers/veriproducto.php
+RewriteRule ^veri-eliminar$ controllers/verieliminar.php
+RewriteRule ^veri-prov$ controllers/veriproveedor.php
+RewriteRule ^pedido$ html/js/pedido.js?v=10.2.44
+RewriteRule ^anular$ html/js/anular.js?v=11.6.32
+RewriteRule ^compra$ html/js/compra.js?v=12.2.36
+
+RewriteRule ^nuevo-pedido-([0-9]+)-([0-9]+)-([0-9]+)-([0-9]+)$ controllers/nuevopedido.php?cod-produ=$1&cant=$2&id-cliente=$3&dni-cliente=$4
+RewriteRule ^eliminar-pedido-([0-9]+)-([0-9]+)-([a-z]+)-([0-9]+)$ controllers/nuevopedido.php?id-detalle=$1&cliente=$2&eliminar=$3&dni-cliente=$4
+
+RewriteRule ^genera-factura-([0-9]+)-([0-9]+)$ controllers/generaFactura.php?cl=$1&f=$2
+
+RewriteRule ^nuevo-usuario$ controllers/nuevousuario.php
+RewriteRule ^editar-usuario-([0-9]+)$ controllers/editarusuario.php?id=$1
+RewriteRule ^usuarios-([0-9]+)$ controllers/listausuarios.php?id=$1
+
+RewriteRule ^pedidos-([0-9]+)$ controllers/listapedidos.php?pagina=$1
+RewriteRule ^concreatada-([0-9]+)$ controllers/listaconcretada.php?pagina=$1
+RewriteRule ^anulada-([0-9]+)$ controllers/listaanulada.php?pagina=$1
+RewriteRule ^compras-([0-9]+)$ controllers/listacompra.php?pagina=$1
+RewriteRule ^nuevo-([0-9]+)$ controllers/listanueva.php?pagina=$1
+RewriteRule ^reposicion-([0-9]+)$ controllers/listarepo.php?pagina=$1
