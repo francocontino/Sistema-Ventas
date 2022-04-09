@@ -98,7 +98,6 @@ Cargada la pagina le aparecerá un formulario de login (Login de usuario). En el
 
 
 ![image](https://user-images.githubusercontent.com/97261206/162590057-c5588715-cfe9-4c39-b667-7694a6dfe55e.png)
-
 Login de usuario
 
 
