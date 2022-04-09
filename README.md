@@ -1,8 +1,8 @@
 # Sistema-Ventas
-
+<br>  
 Manual del Usuario del Sistema
 
-
+<br>  
 Indice
 
 -Info Ventas
@@ -59,7 +59,7 @@ o	2.6.4- Eliminar Usuario
 5-Glosario  
 
   
-<br>  
+<br> <br>  <br>   
 
 -Info Ventas
 
