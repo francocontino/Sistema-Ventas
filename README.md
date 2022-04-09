@@ -430,14 +430,18 @@ Listado reposición
 
 
 2.4- Compras
-En el modulo compras se podrá ver el listado completo de compras que se registraron en el sistema, se podrá generar nuevas compras, editar el estado de las mismas, ver listado de compras de productos nuevos y productos existentes 
+En el modulo compras se podrá ver el listado completo de compras que se registraron en el sistema, se podrá generar nuevas compras, editar el estado de las mismas, ver listado de compras de productos nuevos y productos existentes
+
+![image](https://user-images.githubusercontent.com/97261206/162590682-5275f9e7-7553-4844-99c4-19fddf604b35.png)
+
  
 
 	2.4.1- Listado Compras
 Al hacer click en compras, nos mostrara el listado de todas las compras registradas en el sistema (listado compras)
 
+![image](https://user-images.githubusercontent.com/97261206/162590699-385854fe-4ee4-4ee2-9ac0-351d9b68128f.png)
  
-	Listado compras
+Listado compras
 	
 
 
@@ -448,9 +452,10 @@ Al hacer click en compras, nos mostrara el listado de todas las compras registra
 
 
 
-2.4.2- Nueva compra
+	2.4.2- Nueva compra
 Para registrar una nueva compra en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nueva Compra”. Una vez hecho click se mostrara un formulario en cual solicitara datos de la compra, como la razón social del proveedor, el cual ya debe estar registrado previamente y los datos del producto, tales como la descripción, cantidad y precio. Cargado los datos, apretamos en “Guardar” y la compra quedara registrado (nuevo compra)
 
+![image](https://user-images.githubusercontent.com/97261206/162590703-5e2c3e16-fbaf-4593-acc4-cb3a23102460.png)
  
 Nuevo compra
 
@@ -466,10 +471,11 @@ Nuevo compra
 
 
 
-2.4.2- Nueva reposición
+	2.4.2- Nueva reposición
 Para registrar una nueva reposición en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nuevo Repo”. Una vez hecho click se mostrara un formulario en cual solicitara datos de la compra de reposición, como la razón social del proveedor, el cual ya debe estar registrado previamente y los datos del producto que también ya debe estar registrado previamente; se ingresara la descripción, cantidad y precio. Cargado los datos, apretamos en “Guardar” y la compra de reposición quedara registrada (nuevo reposición)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590709-168fe11a-51eb-4002-bb37-72f565e42b19.png)
+
 Nuevo reposición
 
 
@@ -488,17 +494,18 @@ Si se selecciona la opción “anulado” y se le da a “guardar”, no se podr
 Al seleccionar la opción “registrado”  y se le da a “guardar”, no se podrá editar el estado de esa compra, quedando registrada la compra realizada. Si es una nueva compra, se dará de alta el producto con las cantidades que se compraron y si es una compra de reposición, se sumara al stock del producto. 
 Al seleccionar la opción “pendiente” (que es la opción predeterminada) y “No coincidente”, esto solo se vera reflejado en el estado del producto, pero si se puede volver a cambiar el estado mientras sean estas opciones. (editar estado compra).
 
- 
-              Editar estado compra	
+![image](https://user-images.githubusercontent.com/97261206/162590717-9c229289-e3af-4a63-bf6c-a5da8be662e1.png)
+
+Editar estado compra	
 
 
 
 
 
-
-              2.4.4- Mostrar Compras Nuevas
+	2.4.4- Mostrar Compras Nuevas
 Al hacer click en “Mostrar compras”, nos mostrara el listado de todas las compras nuevas registradas en el sistema (listado compras nuevas)
 
+![image](https://user-images.githubusercontent.com/97261206/162590723-090fbc70-81c7-406e-809f-b8131a4532ca.png)
  
 Mostrar compras nuevas
 
@@ -516,10 +523,10 @@ Mostrar compras nuevas
 
 
 
-
-              2.4.5- Mostrar Compras Reposición
+	2.4.5- Mostrar Compras Reposición
 Al hacer click en “Mostrar repo”, nos mostrara el listado de todas las compras de reposición registradas en el sistema (listado compras reposicion)
 
+![image](https://user-images.githubusercontent.com/97261206/162590729-cf58f105-4740-44dd-82d9-276013aa58c3.png)
  
 Mostrar compras reposición
 
