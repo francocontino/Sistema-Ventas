@@ -1,9 +1,14 @@
 # Sistema-Ventas
 <br>
+
 Manual del Usuario del Sistema
+
 <br>
+
 Indice
+
 <br>  
+
 -Info Ventas
 
 1-Inicio
