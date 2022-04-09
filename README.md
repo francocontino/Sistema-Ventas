@@ -12,13 +12,9 @@ Indice
 2-Modulos
 
 •	2.1-Clientes
-
-o	2.1.1- Listado Clientes
-	
-o	2.1.2- Nuevo Cliente
-	
-o	2.1.3- Editar Cliente
-	
+o	2.1.1- Listado Clientes	
+o	2.1.2- Nuevo Cliente	
+o	2.1.3- Editar Cliente	
 o	2.1.4- Eliminar Cliente
 
 •	2.2-Proveedores
@@ -26,12 +22,14 @@ o	2.2.1- Listado Proveedores
 o	2.2.2- Nuevo Proveedor
 o	2.2.3- Editar Proveedor
 o	2.2.4- Eliminar Proveedor
+
 •	2.3-Productos
 o	2.3.1- Listado Productos
 o	2.3.2- Nuevo Producto
 o	2.3.3- Editar Producto
 o	2.3.4- Eliminar Producto
 o	2.3.5- Mostrar en reposición
+
 •	2.4-Compras
 o	2.4.1- Listado Compras
 o	2.4.2- Nueva Compra
@@ -39,6 +37,7 @@ o	2.4.3- Nueva Reposición
 o	2.4.4- Editar  Estado Compra
 o	2.4.5- Mostrar compras nuevas
 o	2.4.6- Mostrar compras de reposición
+
 •	2.5-Ventas
 o	2.5.1- Listado Ventas
 o	2.5.2- Nueva Venta
@@ -46,14 +45,19 @@ o	2.5.3- Mostrar Factura
 o	2.5.4- Anular Venta
 o	2.5.5- Mostrar Pagadas
 o	2.5.6- Mostrar Anuladas
+
 •	2.6-Usuarios
 o	2.6.1- Listado Usuarios
 o	2.6.2- Nuevo Usuario
 o	2.6.3- Editar Usuario
 o	2.6.4- Eliminar Usuario
+
 3- Preguntas Frecuentes/Solución de Problemas
+
 4-Contacto
+
 5-Glosario
+
 
 -Info Ventas
 
