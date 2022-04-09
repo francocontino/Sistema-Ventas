@@ -96,7 +96,9 @@ Tiene que instalar xampp desde esta dirección https://www.apachefriends.org/es/
 Luego, en el buscador de su navegador debe ingresar una dirección ip, la cual es localhost:8080/Proyecto/login (en este caso la dirección es un puerto).
 Cargada la pagina le aparecerá un formulario de login (Login de usuario). En el cual deberá ingresar su nombre y contraseña de usuario y lo llevara a la pagina de inicio. Al administrador o usuario root se le brindara un usuario predeterminado para poder configurar su sistema.
 
+
 ![image](https://user-images.githubusercontent.com/97261206/162590057-c5588715-cfe9-4c39-b667-7694a6dfe55e.png)
+
 Login de usuario
 
 
@@ -106,18 +108,24 @@ Dependiendo del rol que se tenga, se podara hacer distintas acciones y acceder a
 
 -El rol de administrador tendrá acceso total (inicio admin)
 
+
 ![image](https://user-images.githubusercontent.com/97261206/162590101-d387c7a8-1c61-462a-a0c6-1a2c48823132.png)
+
 Inicio admin 
 
 -El usuario Vendedor tendrá acceso al módulo clientes, productos y ventas. Tambien podrá ver el listado de usuarios y editar el nombre de su usuario (inicio vendedor)
 
+
 ![image](https://user-images.githubusercontent.com/97261206/162590113-3c98ec09-19a6-47bb-b944-faccedb0c3f9.png) 
+
 Inicio vendedor 
 
 
 -El usuario Almacen tendrá acceso a los modulos proveedor, productos, compras. Tambien podrá ver el listado de usuarios y editar el nombre de su usuario (inicio almacen)
 
+
 ![image](https://user-images.githubusercontent.com/97261206/162590122-9724dc5c-6f6c-4525-9358-6d4e7f4b9c82.png) 
+
 Inicio almacen
 
 
