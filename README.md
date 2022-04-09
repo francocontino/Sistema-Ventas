@@ -95,6 +95,7 @@ Antes de iniciar el sistema se tiene que verificar que posee de una conexión a 
 Tiene que instalar xampp desde esta dirección https://www.apachefriends.org/es/index.html. Una vez descargado e instalado, se le abrirá un panel de control. Tiene que hacer click en “start” y este se iniciara.
 Luego, en el buscador de su navegador debe ingresar una dirección ip, la cual es localhost:8080/Proyecto/login (en este caso la dirección es un puerto).
 Cargada la pagina le aparecerá un formulario de login (Login de usuario). En el cual deberá ingresar su nombre y contraseña de usuario y lo llevara a la pagina de inicio. Al administrador o usuario root se le brindara un usuario predeterminado para poder configurar su sistema.
+![image](https://user-images.githubusercontent.com/97261206/162590057-c5588715-cfe9-4c39-b667-7694a6dfe55e.png)
 
  
 Login de usuario
