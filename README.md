@@ -199,12 +199,9 @@ Nuevo cliente
 Para editar un cliente hay que hacer click en “editar”. Se desplegara un formulario con los datos actuales de ese cliente. Haciendo click sobre el campo  que desee modificar, ingresara el nuevo dato. Un vez terminado de realizar todas las modificaciones necesarias, presionara sobre “Guardar” y los cambios hechos a determinado cliente se guardaran. (editar cliente)
 
 
- 	      ![image](https://user-images.githubusercontent.com/97261206/162590170-498b9319-5fc8-4b29-b982-301c9ff88448.png)
+ 	      ![image](https://user-images.githubusercontent.com/97261206/162590363-c7a84456-c10a-4192-82ae-8c1a9849a638.png)
 	      
               Editar cliente	
-
-
-
 
 
 
