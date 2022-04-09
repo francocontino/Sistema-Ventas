@@ -152,6 +152,8 @@ Inicio almacen
 
 2.1- Cliente
 En el modulo cliente se podrá ver el listado completo de clientes que se registraron en el sistema, se podrá generar nuevos clientes, editarlos y eliminarlos
+
+
 ![image](https://user-images.githubusercontent.com/97261206/162590138-5fe034e2-f445-40c1-8909-efaead19bd95.png)
  
 
