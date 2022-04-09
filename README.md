@@ -95,9 +95,8 @@ Antes de iniciar el sistema se tiene que verificar que posee de una conexión a 
 Tiene que instalar xampp desde esta dirección https://www.apachefriends.org/es/index.html. Una vez descargado e instalado, se le abrirá un panel de control. Tiene que hacer click en “start” y este se iniciara.
 Luego, en el buscador de su navegador debe ingresar una dirección ip, la cual es localhost:8080/Proyecto/login (en este caso la dirección es un puerto).
 Cargada la pagina le aparecerá un formulario de login (Login de usuario). En el cual deberá ingresar su nombre y contraseña de usuario y lo llevara a la pagina de inicio. Al administrador o usuario root se le brindara un usuario predeterminado para poder configurar su sistema.
-![image](https://user-images.githubusercontent.com/97261206/162590057-c5588715-cfe9-4c39-b667-7694a6dfe55e.png)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590057-c5588715-cfe9-4c39-b667-7694a6dfe55e.png)
 Login de usuario
 
 
@@ -107,18 +106,18 @@ Dependiendo del rol que se tenga, se podara hacer distintas acciones y acceder a
 
 -El rol de administrador tendrá acceso total (inicio admin)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590101-d387c7a8-1c61-462a-a0c6-1a2c48823132.png)
 Inicio admin 
 
 -El usuario Vendedor tendrá acceso al módulo clientes, productos y ventas. Tambien podrá ver el listado de usuarios y editar el nombre de su usuario (inicio vendedor)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590113-3c98ec09-19a6-47bb-b944-faccedb0c3f9.png) 
 Inicio vendedor 
 
 
 -El usuario Almacen tendrá acceso a los modulos proveedor, productos, compras. Tambien podrá ver el listado de usuarios y editar el nombre de su usuario (inicio almacen)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590122-9724dc5c-6f6c-4525-9358-6d4e7f4b9c82.png) 
 Inicio almacen
 
 
@@ -141,13 +140,14 @@ Inicio almacen
 
 2.1- Cliente
 En el modulo cliente se podrá ver el listado completo de clientes que se registraron en el sistema, se podrá generar nuevos clientes, editarlos y eliminarlos
+![image](https://user-images.githubusercontent.com/97261206/162590138-5fe034e2-f445-40c1-8909-efaead19bd95.png)
  
 
 
 	2.1.1- Listado Clientes
 Al hacer click en clientes, nos mostrara el listado de todos los clientes registrados en el sistema (listado clientes)
 
- 
+ 	![image](https://user-images.githubusercontent.com/97261206/162590142-38dbc3e2-0bd5-4e67-b0d6-b69078bb4529.png)		
 	Listado clientes
 	
 
@@ -161,7 +161,7 @@ Al hacer click en clientes, nos mostrara el listado de todos los clientes regist
 2.1.2- Nuevo cliente
 Para registrar un nuevo cliente en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nuevo”. Una vez hecho click se mostrara un formulario en cual solicitara datos del cliente, como el nombre, dni, teléfono, dirección. Cargado los datos, apretamos en “Guardar” y el cliente quedara registrado (nuevo cliente)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590158-db1cd583-1997-4bbb-84e0-2a49a72383a7.png) 
 Nuevo cliente
 
 
@@ -180,7 +180,7 @@ Nuevo cliente
 2.1.3- Editar Cliente
 Para editar un cliente hay que hacer click en “editar”. Se desplegara un formulario con los datos actuales de ese cliente. Haciendo click sobre el campo  que desee modificar, ingresara el nuevo dato. Un vez terminado de realizar todas las modificaciones necesarias, presionara sobre “Guardar” y los cambios hechos a determinado cliente se guardaran. (editar cliente)
 
- 
+ 	      ![image](https://user-images.githubusercontent.com/97261206/162590170-498b9319-5fc8-4b29-b982-301c9ff88448.png)
               Editar cliente	
 
 
@@ -195,11 +195,11 @@ Para editar un cliente hay que hacer click en “editar”. Se desplegara un for
 
 
 
-
+	     
               2.1.4- Eliminar Cliente 
 Para eliminar un cliente, hay que hacer click en “Eliminar ”, el cual lo encontramos en                          la parte derecha del listado de clientes. Una vez hecho click, se eliminara ese cliente (eliminar cliente)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590179-350df62e-c4e2-437e-ba90-4e2c1dc527c7.png)
 Eliminar cliente
 
 
