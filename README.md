@@ -162,9 +162,9 @@ En el modulo cliente se podrá ver el listado completo de clientes que se regist
 Al hacer click en clientes, nos mostrara el listado de todos los clientes registrados en el sistema (listado clientes)
 
 
- 	![image](https://user-images.githubusercontent.com/97261206/162590142-38dbc3e2-0bd5-4e67-b0d6-b69078bb4529.png)		
+![image](https://user-images.githubusercontent.com/97261206/162590142-38dbc3e2-0bd5-4e67-b0d6-b69078bb4529.png)		
 	
-	Listado clientes
+Listado clientes
 	
 
 
@@ -174,7 +174,7 @@ Al hacer click en clientes, nos mostrara el listado de todos los clientes regist
 
 
 
-2.1.2- Nuevo cliente
+	2.1.2- Nuevo cliente
 Para registrar un nuevo cliente en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nuevo”. Una vez hecho click se mostrara un formulario en cual solicitara datos del cliente, como el nombre, dni, teléfono, dirección. Cargado los datos, apretamos en “Guardar” y el cliente quedara registrado (nuevo cliente)
 
 
@@ -195,7 +195,7 @@ Nuevo cliente
 
 
 
-2.1.3- Editar Cliente
+	2.1.3- Editar Cliente
 Para editar un cliente hay que hacer click en “editar”. Se desplegara un formulario con los datos actuales de ese cliente. Haciendo click sobre el campo  que desee modificar, ingresara el nuevo dato. Un vez terminado de realizar todas las modificaciones necesarias, presionara sobre “Guardar” y los cambios hechos a determinado cliente se guardaran. (editar cliente)
 
 
@@ -213,7 +213,7 @@ Editar cliente
 
 
 	     
-              2.1.4- Eliminar Cliente 
+	2.1.4- Eliminar Cliente 
 Para eliminar un cliente, hay que hacer click en “Eliminar ”, el cual lo encontramos en la parte derecha del listado de clientes. Una vez hecho click, se eliminara ese cliente (eliminar cliente)
 
 
