@@ -59,7 +59,7 @@ o	2.6.4- Eliminar Usuario
 5-Glosario  
 
   
-  
+<br>  
 
 -Info Ventas
 
