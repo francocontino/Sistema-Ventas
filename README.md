@@ -240,14 +240,15 @@ Eliminar cliente
 
 2.2- Proveedores
 En el modulo proveedores se podrá ver el listado completo de proveedores que se registraron en el sistema, se podrá generar nuevos proveedores, editarlos y eliminarlos
+![image](https://user-images.githubusercontent.com/97261206/162590495-3e3df7a7-ffe0-4565-8322-701cfab5143e.png)
  
 
 	2.2.1 Listado Proveedores
 Al hacer click en Proveedores, nos mostrara el listado de todos los proveedores registrados en el sistema (listado proveedores) 
 
+![image](https://user-images.githubusercontent.com/97261206/162590502-d15fc39b-8733-47eb-9ae7-1ddea13e93db.png)
 
- 
-	Listado proveedores		
+Listado proveedores		
 
 
 
@@ -262,8 +263,9 @@ Al hacer click en Proveedores, nos mostrara el listado de todos los proveedores 
 2.1.2- Nuevo proveedor
 Para registrar un nuevo proveedor en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nuevo”. Una vez hecho click se mostrara un formulario en cual solicitara datos del proveedor, como la razón social, teléfono, dirección. Cargado los datos, apretamos en “Guardar” y el proveedor quedara registrado (nuevo proveedor)
 
- 
-	Nuevo proveedor
+![image](https://user-images.githubusercontent.com/97261206/162590511-e0bcaa38-c312-43f4-b309-b2b6fd64ccec.png)
+
+Nuevo proveedor
 
 
 
@@ -281,6 +283,7 @@ Para registrar un nuevo proveedor en el sistema, nos tenemos que dirigir a la pa
 2.1.3- Editar Proveedor
 Para editar un proveedor hay que hacer click en “editar”. Se desplegara un formulario con los datos actuales de ese proveedor. Haciendo click sobre el campo  que desee modificar, ingresara el nuevo dato. Un vez terminado de realizar todas las modificaciones necesarias, presionara sobre “Guardar” y los cambios hechos a determinado proveedor se guardaran. (editar proveedor)
 
+![image](https://user-images.githubusercontent.com/97261206/162590520-77a8a711-41e9-4a2b-b967-02d742b19cb0.png)
  
 Editar proveedor
 
@@ -300,7 +303,8 @@ Editar proveedor
               2.1.4- Eliminar Proveedor
 Para eliminar un proveedor, hay que hacer click en “Eliminar ”, el cual lo encontramos en la parte derecha del listado de proveedores. Una vez hecho click, se eliminara ese proveedor (eliminar proveedor)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590526-99fa6816-6d01-4046-9472-3c31a733d10a.png)
+
 Eliminar proveedor
 
 
@@ -319,14 +323,17 @@ Eliminar proveedor
 
 2.3- Productos
 En el modulo productos se podrá ver el listado completo de productos que se registraron en el sistema, se podrá generar nuevos proveedores, editarlos, eliminarlos y ver listado de productos bajo reposicion
- 
+
+![image](https://user-images.githubusercontent.com/97261206/162590537-ff7db6b2-19b0-405c-9bb0-167df9b8b69e.png)
+
 
 	2.3.1 Listado Productos
 Al hacer click en productos, nos mostrara el listado de todos los productos registrados en el sistema (listado productos) 
 
 
- 
-	Listado productos			
+![image](https://user-images.githubusercontent.com/97261206/162590541-2fe90852-45d8-4ca9-a85d-6cd1002a969e.png)
+
+Listado productos			
 
 
 
@@ -341,8 +348,9 @@ Al hacer click en productos, nos mostrara el listado de todos los productos regi
 2.3.2- Nuevo producto
 Para registrar un nuevo producto en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nuevo”. Una vez hecho click se mostrara un formulario en cual solicitara datos del producto, como la descripción, precio, stock, reposicion. Cargado los datos, apretamos en “Guardar” y el producto quedara registrado (nuevo producto)
 
- 
-	Nuevo producto
+ ![image](https://user-images.githubusercontent.com/97261206/162590557-2704d1ef-476a-4542-9e3f-60507527b842.png)
+
+Nuevo producto
 
 
 
@@ -360,6 +368,7 @@ Para registrar un nuevo producto en el sistema, nos tenemos que dirigir a la par
 2.3.3- Editar Producto
 Para editar un producto hay que hacer click en “editar”. Se desplegara un formulario con los datos actuales de ese producto. Haciendo click sobre el campo  que desee modificar, ingresara el nuevo dato. Un vez terminado de realizar todas las modificaciones necesarias, presionara sobre “Guardar” y los cambios hechos a determinado producto se guardaran. (editar producto)
 
+![image](https://user-images.githubusercontent.com/97261206/162590564-cec7cee0-c715-4fe2-b73d-c179ec25e19b.png)
  
 Editar producto
 
@@ -379,8 +388,9 @@ Editar producto
               2.3.4- Eliminar Producto
 Para eliminar un producto, hay que hacer click en “Eliminar ”, el cual lo encontramos en la parte derecha del listado de productos. Una vez hecho click, se eliminara ese producto (eliminar producto)
 
- 
-	Eliminar producto	
+![image](https://user-images.githubusercontent.com/97261206/162590571-d8eec7b8-6c4f-4899-8ff7-8583ff0d0b7c.png)
+
+Eliminar producto	
 
 
 
@@ -398,6 +408,7 @@ Para eliminar un producto, hay que hacer click en “Eliminar ”, el cual lo en
 2.3.5- Mostrar en Reposición
 Al hacer click en “bajo reposicion”, nos mostrara el listado de todos los productos registrados en el sistema que estén bajo reposicion (listado reposicion) 
 
+![image](https://user-images.githubusercontent.com/97261206/162590574-3e5363aa-76a9-4c0b-a4a2-789cd40b61bc.png)
  
 Listado reposición
 
