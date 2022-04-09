@@ -744,36 +744,16 @@ Eliminar usuario
 
 -¿Qué hago si no me carga el sistema?
 Lo primero que se debería hacer es verificar la conexión a inernet. Si su dispositivo esta conectado a una red de internet pero el problema continua, reinicie su rooter.
-Si haciendo esto sigue sin cargar el sistema póngase en contacto con nosotros.
 
 
 -Que hago si al cargar el sistema me da error?
 Lo primero que debería  hacer es abrir el xampp y fijarse que este funcionando correctamente.
 Si a pesar de esto sigue mostrando el mismo error, dentro del panel de control del xampp, haga click en “stpo” y vuelva hacer click en “start”.
-Si sigue mostrando el mismo error póngase en contacto con nosotros
+
 
 
 -¿Que pasa si no puedo visualizar la factura?
 Esto puede ser ocasionado, debido a que su navegador esta bloqueando las ventanas emergentes. En la parte superior derecha de su navegador aparecerá un icono con la ventana emregente bloqueda, si le da click en ese lugar podrá visualizarla. Tambien podrá cambiar la configuración de su navegador para que las ventanas emergentes se muetren.
-Si haciendo esto sigue sin poder visualizar la factura póngase en contacto con nosotros|
-
-
-
-
-Si presenta otra duda respecto al sistema o tiene algún error, no dude en ponerse en contacto con nosotros
-
-
-
-
-
-
-4-Contacto
-
-Correo Electrónica: infoVentas@gmail.com
-Teléfono: 46488723
-Instagram: @infoVentas
-Facebook: infoVentas
-
 
 
 
