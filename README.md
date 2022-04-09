@@ -488,7 +488,7 @@ Nuevo reposición
 
 
 
-2.4.3- Editar Estado Compra
+	2.4.3- Editar Estado Compra
 Para editar un estado de compra hay que hacer click en “editar”. Se desplegara un formulario con los datos actuales de esa compra. Haciendo click sobre el campo  “estado” se desplegara los posibles estados de la compra. Una vez terminado de seleccionar el estado a modificar, presionara sobre “Guardar” y los cambios hechos a la determinada compra se guardaran. 
 Si se selecciona la opción “anulado” y se le da a “guardar”, no se podrá editar el estado de esa compra y quedara anulada permanentemente 
 Al seleccionar la opción “registrado”  y se le da a “guardar”, no se podrá editar el estado de esa compra, quedando registrada la compra realizada. Si es una nueva compra, se dará de alta el producto con las cantidades que se compraron y si es una compra de reposición, se sumara al stock del producto. 
@@ -547,13 +547,16 @@ Mostrar compras reposición
 
 2.5- Ventas
 En el modulo ventas se podrá ver el listado completo de ventas que se registraron en el sistema, ver las facturas, se podrá generar nuevas ventas y su factura correspondiente, anular ventas, ver listado de ventas concretadas y ventas anuladas 
- 
+
+![image](https://user-images.githubusercontent.com/97261206/162590785-b6df498a-a528-4d5b-b876-9b6872e23f09.png)
+
 
 	2.5.1- Listado Ventas
 Al hacer click en ventas, nos mostrara el listado de todas las ventas registradas en el sistema (listado ventas)
 
+![image](https://user-images.githubusercontent.com/97261206/162590794-2c398b91-4d24-4ce1-ac09-3584455bc8f3.png)
  
-	Listado ventas
+Listado ventas
 	
 
 
@@ -564,11 +567,12 @@ Al hacer click en ventas, nos mostrara el listado de todas las ventas registrada
 
 
 
-2.5.2- Nueva venta
+	2.5.2- Nueva venta
 Para registrar una nueva venta en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nuevo”. Una vez hecho click se mostrara un formulario en cual solicitara datos de la venta, como el dni del cliente, el cual ya debe estar registrado previamente y los datos del producto, que también debe estar registrado previamente. Se tendrá que ingresar la descripción y cantidad solicitada. 
 A medida que se vayan ingresando nuevos productos, se informara sobre el resumen de la venta generada. Cada producto ingresado, se podrá eliminar, haciendo click en el botón “eliminar” el cual lo encontramos en la parte derecha del resumen del pedido. Tambien, se puede anular la venta antes de procesarla, haciendo click en el botón “anular”, el cual se encuentra en la parte inferior derecha.
 Cargado los datos, apretamos en “Procesar” y la venta quedara registrada, actualizando el monto total de ventas concretadas. Tambien se generara la factura de la venta realizada y se descontara la cantidad de productos que se solicito, sobre el stock de los productos  (nueva venta)
 
+![image](https://user-images.githubusercontent.com/97261206/162590805-f3c425b6-6281-496f-abec-9654d954406d.png)
  
 Nuevo venta
 
@@ -578,11 +582,12 @@ Nuevo venta
 
 
 
-2.5.3- Anular venta
+	2.5.3- Anular venta
 Para anular una venta hay que hacer click en “anular”, el cual se encuentra en la parte derecha. Si se selecciona la opción “anular”, no se podrá cambiar ese estado. Tambien, se descontara esa venta del total de ventas concretadas y se reintegrara el stock (anular venta)
 
- 
-              Anular venta
+![image](https://user-images.githubusercontent.com/97261206/162590807-869ea692-986e-4553-86f5-ae0749f6e984.png)
+
+Anular venta
 
 
 
@@ -598,16 +603,22 @@ Para anular una venta hay que hacer click en “anular”, el cual se encuentra 
 
 
 
-              2.5.4- Mostrar Factura
+	2.5.4- Mostrar Factura
 Al hacer click en “Factura”, ubicado en la part derecha, se abrirá una nueva ventana, en la cual, nos mostrara la factura de la venta seleccionada (mostrar facturas)
 
  
- 
+![image](https://user-images.githubusercontent.com/97261206/162590822-c1bb6e39-7dbe-4524-a884-1c63cb907663.png)
+
+![image](https://user-images.githubusercontent.com/97261206/162590826-9d63b794-5ec6-4a1a-935d-6f4e2da360e3.png)
+
 Mostrar facturas
-              2.5.5- Mostrar Pagadas
+
+
+	2.5.5- Mostrar Pagadas
 Al hacer click en “Pagado”, nos mostrara el listado de todas las ventas concretadas registradas en el sistema (listado pagados)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590829-f1d98b81-2ba0-4927-9a57-bf01b7479681.png)
+
 Listado pagados
 
 
@@ -625,9 +636,10 @@ Listado pagados
 
 
 
-              2.5.6- Mostrar ventas anuladas
+	2.5.6- Mostrar ventas anuladas
 Al hacer click en “Anulada”, nos mostrara el listado de todas las ventas anuladas registradas en el sistema (listado anuladas)
 
+![image](https://user-images.githubusercontent.com/97261206/162590830-034eec5d-9d00-4dcc-b260-21c12f256eda.png)
  
 Listado anuladas
 
@@ -648,14 +660,17 @@ Listado anuladas
 
 2.1- Usuarios
 En el modulo usuarios se podrá ver el listado completo de usuarios registrados en el sistema, se podrá generar nuevos usuarios, editarlos y eliminarlos. Si es usuario root, podrá generar, editar y eliminar cualquier usuario, Si es admin, podrá generar nuevos usuarios y, editar y eliminar usuarios que no sean administradores. Si es vendedor o almacen podrá editar únicamente su usuario
+
+![image](https://user-images.githubusercontent.com/97261206/162590836-0443e3b7-d021-4506-8556-11fbd0fc46f5.png)
  
 
 
 	2.1.1- Listado usuarios
 Al hacer click en usuarios, nos mostrara el listado de todos los usuarios registrados en el sistema (listado usuarios)
 
- 
-	Listado usuarios
+![image](https://user-images.githubusercontent.com/97261206/162590840-31e5533c-fb1a-4039-a551-f59b87daab93.png)
+
+Listado usuarios
 	
 
 
@@ -665,10 +680,11 @@ Al hacer click en usuarios, nos mostrara el listado de todos los usuarios regist
 
 
 
-2.1.2- Nuevo usuario
+	2.1.2- Nuevo usuario
 Para registrar un nuevo usuario en el sistema, nos tenemos que dirigir a la parte superior izquierda y hacer click en “Nuevo”. Una vez hecho click se mostrara un formulario en cual solicitara datos del nuevo usuario, como el nombre, contraseña y rol, el cual podrá ser administrador, vendedor y almacen. Cargado los datos, apretamos en “Guardar” y el usuario quedara registrado (nuevo usuario)
 
- 
+![image](https://user-images.githubusercontent.com/97261206/162590860-c5e77ba7-c558-4f96-bb6c-3b5271544362.png)
+
 Nuevo usuario
 
 
@@ -683,11 +699,12 @@ Nuevo usuario
 
 
 
-2.1.3- Editar Usuario
+	2.1.3- Editar Usuario
 Para editar un usuario hay que hacer click en “editar”. Se desplegara un formulario con los datos actuales de ese usuario. Haciendo click sobre el campo  que desee modificar, ingresara el nuevo dato. Un vez terminado de realizar todas las modificaciones necesarias, presionara sobre “Guardar” y los cambios hechos a determinado usuario se guardaran. (editar usuario)
 
- 
-              Editar usuario	
+![image](https://user-images.githubusercontent.com/97261206/162590866-a12ff80f-586b-478f-bd51-b05a230e935b.png)
+
+Editar usuario	
 
 
 
@@ -702,9 +719,10 @@ Para editar un usuario hay que hacer click en “editar”. Se desplegara un for
 
 
 
-              2.1.4- Eliminar usuario
-Para eliminar unusuario, hay que hacer click en “Eliminar ”, el cual lo encontramos en                          la parte derecha del listado deusuarios. Una vez hecho click, se eliminara ese usuario (eliminar usuario)
+	2.1.4- Eliminar usuario
+Para eliminar unusuario, hay que hacer click en “Eliminar ”, el cual lo encontramos en la parte derecha del listado deusuarios. Una vez hecho click, se eliminara ese usuario (eliminar usuario)
 
+![image](https://user-images.githubusercontent.com/97261206/162590885-7e57911e-6c1c-4a2f-a354-4c9c62b257fa.png)
  
 Eliminar usuario
 
