@@ -2,7 +2,7 @@
 <br>
 Manual del Usuario del Sistema
 
-<br>  <br> 
+<br>
 
 Indice
 <br>  
