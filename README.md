@@ -10,6 +10,7 @@ Indice
 1-Inicio
 
 2-Modulos
+
 •	2.1-Clientes
 
 o	2.1.1- Listado Clientes
@@ -19,6 +20,7 @@ o	2.1.2- Nuevo Cliente
 o	2.1.3- Editar Cliente
 	
 o	2.1.4- Eliminar Cliente
+
 •	2.2-Proveedores
 o	2.2.1- Listado Proveedores
 o	2.2.2- Nuevo Proveedor
