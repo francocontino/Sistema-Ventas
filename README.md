@@ -94,8 +94,8 @@ o	2.6.4- Eliminar Usuario
 
 1-Inicio
 Antes de iniciar el sistema se tiene que verificar que posee de una conexión a internet. Una vez verificado esto, se tiene que dirigir a su navegador web de preferencia.
-Tiene que instalar xampp desde esta dirección https://www.apachefriends.org/es/index.html. Una vez descargado e instalado, se le abrirá un panel de control. Tiene que hacer click en “start” y este se iniciara.
-Luego, en el buscador de su navegador debe ingresar una dirección ip, la cual es localhost:8080/Proyecto/login (en este caso la dirección es un puerto).
+Tiene que instalar xampp desde esta dirección https://www.apachefriends.org/es/index.html. Una vez descargado e instalado, se le abrirá un panel de control. Tiene que hacer click en “start” y este se iniciara. Después descomprimir el archivo zip con el código del proyecto en la carpeta /XAMPP/htdocs/ . 
+Luego, en el buscador de su navegador debe ingresar una dirección ip, la cual es http://localhost/Sistema-Ventas-main/html/Login.php .
 Cargada la pagina le aparecerá un formulario de login (Login de usuario). En el cual deberá ingresar su nombre y contraseña de usuario y lo llevara a la pagina de inicio. Al administrador o usuario root se le brindara un usuario predeterminado para poder configurar su sistema.
 
 
